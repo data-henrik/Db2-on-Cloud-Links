@@ -9,4 +9,5 @@ dashDB-links
 * I have discussed dashDB and its predecessor, the IBM Analytics Warehouse, in my [blog](http://blog.4loeser.net "Data Henrik"). Some entries are:
 * How to use dashDB with [R](http://www.r-project.org/ "R project for statistical computing")   http://blog.4loeser.net/2014/09/what-plot-db2-r-and-bluemix-help-with.html
 * How to setup dashDB and connect local tools: http://blog.4loeser.net/2014/08/setting-up-and-using-db2-in-memory.html
+* Sam Lightstone has written a blog entry about dashDB with background information and screenshots: http://softwaretradecraft.com/ibm-dashdb-is-here-keeping-data-warehouse-infrastructure-out-of-your-way/
 * There is also a dashDB video on Youtube: http://youtu.be/C9RZQzMwdOM
