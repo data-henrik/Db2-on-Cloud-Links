@@ -8,6 +8,7 @@ Official
 * The official dashDB website is http://dashdb.com
 * A product page at the [IBM](http://ibm.com) website is http://www-01.ibm.com/software/data/dashdb/what-is.html
 * Documentation for dashDB on Bluemix is available at https://www.ng.bluemix.net/docs/#services/dashDB/index.html
+* Samples for different programming languages https://hub.jazz.net/project/ibmdatabase/dashDB/overview
 
 
 Blog entries:
