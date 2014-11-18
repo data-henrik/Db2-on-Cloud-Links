@@ -18,6 +18,8 @@ Blog entries:
 * How to setup dashDB and connect local tools: http://blog.4loeser.net/2014/08/setting-up-and-using-db2-in-memory.html
 * A quick look at dashDB and a happy SQuirreL http://blog.4loeser.net/2014/11/a-quick-look-at-dashdb-and-happy.html
 * Sam Lightstone has written a blog entry about dashDB with background information and screenshots: http://softwaretradecraft.com/ibm-dashdb-is-here-keeping-data-warehouse-infrastructure-out-of-your-way/
+* dashDB is here, and this changes everything for data warehousing on the cloud http://ibmdatawarehousing.wordpress.com/2014/10/17/warehouse-as-a-service-nancy/
+* Bringing cloud-based modernization to data warehousing and analytics http://www.ibmbigdatahub.com/blog/bringing-cloud-based-modernization-data-warehousing-and-analytics
 
 
 Other media:
