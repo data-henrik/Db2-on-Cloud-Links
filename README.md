@@ -20,9 +20,11 @@ Blog entries:
 * Sam Lightstone has written a blog entry about dashDB with background information and screenshots: http://softwaretradecraft.com/ibm-dashdb-is-here-keeping-data-warehouse-infrastructure-out-of-your-way/
 * dashDB is here, and this changes everything for data warehousing on the cloud http://ibmdatawarehousing.wordpress.com/2014/10/17/warehouse-as-a-service-nancy/
 * Bringing cloud-based modernization to data warehousing and analytics http://www.ibmbigdatahub.com/blog/bringing-cloud-based-modernization-data-warehousing-and-analytics
+* Transforming the agile data warehouse in the age of the in-memory cloud http://www.ibmbigdatahub.com/blog/transforming-agile-data-warehouse-age-memory-cloud
 
 
 Other media:
 ------------
 * An introduction can also be found on Slideshare: http://de.slideshare.net/cindyrussell129357/learn-more-about-dashdb-data-warehousing-and-analytics-power-at-your-fingertips-in-the-cloud
 * There is also a dashDB video on Youtube: http://youtu.be/C9RZQzMwdOM
+* Podcast: Data warehousing and analytics on the cloud http://www.ibmbigdatahub.com/podcast/data-warehousing-and-analytics-cloud
