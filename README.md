@@ -1,7 +1,7 @@
-dashDB-links
-============
-
-[dashDB](http://dashdb.com "dashDB - DWaaS") is a Data-Warehouse-as-a-Service (DWaaS) offering by IBM, available on [IBM Bluemix](http://bluemix.net "IBM Bluemix"). It offers database storage with in-memory analytics, replication from the JSON/NoSQL DBMS Cloudant, and tools for analyzing the data. I am going to collect some related links here.
+# Links for Db2 on Cloud
+Note that dashDB has been rebranded to Db2 Warehouse on Cloud and Db2 on Cloud. Some links below may be outdated. I have not updated them yet.
+--
+[Db2 Warehouse on Cloud](http://dashdb.com "dashDB - DWaaS") is a Data-Warehouse-as-a-Service (DWaaS) offering by IBM, available on [IBM Bluemix](http://bluemix.net "IBM Bluemix"). It offers database storage with in-memory analytics, replication from the JSON/NoSQL DBMS Cloudant, and tools for analyzing the data. I am going to collect some related links here.
 
 Official
 --------
